@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android高级/JNI/02_JNI Java Native 声明、so符号绑定与动态注册.md",
+                "file": "Android高级/抓包/pem证书安装与使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_JNI Java Native 声明、so符号绑定与动态注册"
+              "title": "pem证书安装与使用"
             }
           }
         ],
@@ -202,8 +202,12 @@
   },
   "active": "b57d3c8e2299bbf7",
   "lastOpenFiles": [
-    "Android高级/JNI/01_JNI基础.md.md",
+    "Android高级/Other/Clash Verge TUN 模式、Rule规则、Umeng绕过配置笔记.md",
+    "Android高级/抓包/pem证书安装与使用.md",
+    "Android高级/抓包/Android-Whistle抓包与调试.md",
+    "Android高级/抓包",
     "Android高级/JNI/02_JNI Java Native 声明、so符号绑定与动态注册.md",
+    "Android高级/JNI/01_JNI基础.md.md",
     "Android高级/Widget/NumberPicker完全使用指南.md",
     "Android高级/JNI",
     "Android高级/Other/CIOT扫描WI-FI列表.md",
